@@ -1,153 +1,113 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>J. Rishikeshwar - Portfolio</title>
+# 👋 Hi, I'm **J. Rishikeshwar**
 
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+### 🚀 Software Developer | Frontend & Full Stack Enthusiast
 
-    <style>
-@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@200..1000&display=swap');
+Welcome to my portfolio!  
+I am a passionate software developer with a strong foundation in programming and web technologies. I enjoy building clean, responsive, and user-friendly applications while continuously learning new tools and best practices in software development.
 
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    font-family: "Nunito Sans", sans-serif;
-}
+---
 
-:root {
-    --bg-color: #191f36;
-    --snd-bg-color: #262B40;
-    --text-color: #fff;
-    --main-color: #59B2F4;
-}
+## 🧑‍💻 About Me
 
-body {
-    background: var(--bg-color);
-    color: var(--text-color);
-}
+I have completed a **one-year MST (Master in Software Technology)** program, where I gained hands-on experience in:
 
-section {
-    min-height: 100vh;
-    padding: 10rem 9% 2rem;
-}
+- Programming fundamentals  
+- Object-oriented concepts  
+- Web development  
+- Database design and management  
 
-/* Header */
-.header {
-    position: fixed;
-    top: 0;
-    width: 100%;
-    padding: 2rem 9%;
-    background: var(--bg-color);
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    z-index: 100;
-}
+I believe in writing **clean, maintainable code** and creating applications that solve real-world problems.
 
-.logo {
-    font-size: 2.5rem;
-    color: var(--main-color);
-    font-weight: 700;
-}
+---
 
-.navbar a {
-    font-size: 1.5rem;
-    color: var(--text-color);
-    margin-left: 2rem;
-}
+## 🛠️ Technical Skills
 
-.navbar a.active,
-.navbar a:hover {
-    color: var(--main-color);
-}
+### 💻 Programming Languages
+- **C** – Strong fundamentals & logic building  
+- **C++** – Object-Oriented Programming  
+- **Java** – Desktop & enterprise-level applications  
 
-/* Home */
-.home {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-}
+### 🌐 Web Technologies
+- **HTML5** – Semantic & accessible markup  
+- **CSS3** – Responsive design, animations  
+- **JavaScript** – Dynamic and interactive UI  
 
-.home-content h1 {
-    font-size: 5.6rem;
-}
+### 🗄️ Database
+- **MySQL** – Database design, queries, CRUD operations  
 
-.home-content h3 {
-    font-size: 3rem;
-}
+---
 
-.home-img img {
-    width: 25vw;
-    border-radius: 10px;
-    border: 3px solid var(--main-color);
-}
+## 📂 Projects
 
-/* Skills */
-.skills-container {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-    gap: 2rem;
-}
+### 🏦 Bank Statement System (C)
+A console-based application for managing bank accounts, tracking transactions, and checking balances using structured programming concepts.
 
-.skill-card {
-    border: 2px solid var(--main-color);
-    padding: 2rem;
-    border-radius: 10px;
-}
+**Technologies:** C  
+**Concepts:** File handling, loops, conditions  
 
-/* Footer */
-.footer {
-    text-align: center;
-    padding: 2rem;
-}
-    </style>
-</head>
+---
 
-<body>
+### ➗ Calculator Application (C++)
+An advanced calculator supporting arithmetic and scientific operations with a clean, modular design.
 
-<header class="header">
-    <a href="#home" class="logo">Portfolio</a>
-    <nav class="navbar">
-        <a href="#home" class="active">Home</a>
-        <a href="#about">About</a>
-        <a href="#skills">Skills</a>
-        <a href="#portfolio">Portfolio</a>
-        <a href="#contact">Contact</a>
-    </nav>
-</header>
+**Technologies:** C++  
+**Concepts:** OOP, functions, classes  
 
-<section class="home" id="home">
-    <div class="home-content">
-        <h3>Hi, Myself</h3>
-        <h1>J. Rishikeshwar</h1>
-        <h3>And I'm a <span class="multiple-text">Software Developer</span></h3>
-        <p>MST graduate with strong skills in C, C++, Java, HTML, CSS, JavaScript, and MySQL.</p>
-        <a href="#" class="btn">Download CV</a>
-    </div>
-    <div class="home-img">
-        <img src="profile.jpg" alt="Profile Image">
-    </div>
-</section>
+---
 
-<section class="skills" id="skills">
-    <h2>My Skills</h2>
-    <div class="skills-container">
-        <div class="skill-card">C</div>
-        <div class="skill-card">C++</div>
-        <div class="skill-card">Java</div>
-        <div class="skill-card">HTML</div>
-        <div class="skill-card">CSS</div>
-        <div class="skill-card">JavaScript</div>
-        <div class="skill-card">MySQL</div>
-    </div>
-</section>
+### 🎓 Student Record Management System (Java)
+A Java-based application to manage student data including add, update, delete, and search functionalities.
 
-<footer class="footer">
-    <p>&copy; 2026 J. Rishikeshwar. All rights reserved.</p>
-</footer>
+**Technologies:** Java  
+**Concepts:** OOP, collections, file handling  
 
-</body>
-</html>
+---
+
+### 🎬 IMDb Top 20 Movies Database (MySQL)
+A database project that stores and queries top IMDb movies with ratings, cast, and reviews.
+
+**Technologies:** MySQL  
+**Concepts:** Joins, subqueries, normalization  
+
+---
+
+### ⌚ Watch Company Website (HTML, CSS, JavaScript)
+A responsive and modern website showcasing products with smooth navigation and animations.
+
+**Technologies:** HTML, CSS, JavaScript  
+**Concepts:** Responsive design, UI/UX  
+
+---
+
+## 🎯 Career Objective
+
+To work as a **Software Developer** where I can apply my technical skills, improve my expertise, and contribute to meaningful projects while growing professionally.
+
+---
+
+## 🌱 Currently Learning
+- Advanced JavaScript  
+- Frontend frameworks  
+- Full Stack development concepts  
+
+---
+
+## 📫 Contact Me
+
+- 📧 Email: **your-email@example.com**
+- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com)
+- 🌐 GitHub: [github.com/rishikeshwar15](https://github.com/rishikeshwar15)
+
+---
+
+## ⭐ Soft Skills
+- Problem Solving  
+- Logical Thinking  
+- Quick Learner  
+- Team Player  
+- Time Management  
+
+---
+
+### 🙏 Thank You for Visiting!
+Feel free to explore my projects and connect with me.
